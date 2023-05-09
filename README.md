@@ -20,7 +20,9 @@
 
 ![Screen Shot](Screenshot_1.png)
 
-Este projeto foi feito com intuito de aprender sobre a linguagem Java Script voltada ao desenvolvimento web, utilizando da api POKE-API na qual me proporcionou criar uma pokedex da primeira geração completa, com o numero, nome, tipo e imagem de cada Pokémon, bem como um botão para mostrar mais e totalmente responsivo se adequando a vários tamanhos de telas
+Este projeto foi feito com intuito de aprender sobre a linguagem Java Script voltada ao desenvolvimento web, utilizando da api POKE-API na qual me proporcionou criar uma pokedex da primeira geração completa, com o numero, nome, tipo e imagem de cada Pokémon, bem como um botão para mostrar mais e totalmente responsivo se adequando a vários tamanhos de telas.
+
+O projeto foi executado com o auxilio das aulas da plataforma DIO
 
 
 ## Construido com
@@ -28,6 +30,6 @@ Este projeto foi feito com intuito de aprender sobre a linguagem Java Script vol
 * Virtual Studio Code
 * POKE-API
 
-## Authors
+## Autor
 
-* **Roberto Carlos de Assis Junior** - *Robs* - [Roberto Carlos de Assis Junior](github.com/robertera) - **
+* **Roberto Carlos de Assis Junior** - *Robs*
